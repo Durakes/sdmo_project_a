@@ -1,4 +1,3 @@
-# https://github.com/bennidi/mbassador.git
 import os
 import subprocess
 import sys
