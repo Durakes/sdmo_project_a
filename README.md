@@ -9,13 +9,15 @@ This project allows cloning a GitHub repository, analyzing its refactorings usin
 - **Repository Cloning**: Clone a specified GitHub repository locally.
 - **Refactoring Detection**: Use RefactoringMiner to detect refactorings in the commits.
 - **Commit Filtering**: Filter commits that include refactorings.
-- **Metrics Generation**: Calculate various commit metrics, such as the number of modified files, added/deleted lines, involved developers, and more.
+- **Metrics Generation**: Calculate various commit metrics, such as the number of modified files, added/deleted lines, involved developers, class metrics and more.
 - **Repository Cleanup**: Deletes the cloned repository after processing to free up local space.
 
-## Prerequisities
+## Prerequisites
 - **Python 3.8+**
-- **Javalang** 
-- **Pydriller** 
+- **Java 8+** (required for running `.jar` files)
+- **Javalang**
+- **Pydriller**
+- **Pandas**
 - **Git**
 
 ## Usage
