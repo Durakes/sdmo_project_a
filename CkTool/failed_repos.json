@@ -1,0 +1,26 @@
+[
+    {
+        "repo_url": "./cloned_repos/gwt",
+        "reason": "Command '['java', '-jar', 'ck-0.7.1-SNAPSHOT-jar-with-dependencies.jar', './cloned_repos/gwt', 'false', '0', 'false', './saved_metrics_data/']' returned non-zero exit status 1."
+    },
+    {
+        "repo_url": "./cloned_repos/robovm",
+        "reason": "Command '['java', '-jar', 'ck-0.7.1-SNAPSHOT-jar-with-dependencies.jar', './cloned_repos/robovm', 'false', '0', 'false', './saved_metrics_data/']' returned non-zero exit status 1."
+    },
+    {
+        "repo_url": "./cloned_repos/gwt",
+        "reason": "Command '['java', '-jar', 'ck-0.7.1-SNAPSHOT-jar-with-dependencies.jar', './cloned_repos/gwt', 'false', '0', 'false', './saved_metrics_data/']' returned non-zero exit status 1."
+    },
+    {
+        "repo_url": "./cloned_repos/robovm",
+        "reason": "Command '['java', '-jar', 'ck-0.7.1-SNAPSHOT-jar-with-dependencies.jar', './cloned_repos/robovm', 'false', '0', 'false', './saved_metrics_data/']' returned non-zero exit status 1."
+    },
+    {
+        "repo_url": "./cloned_repos/gwt",
+        "reason": "Command '['java', '-Xmx2g', '-jar', 'ck-0.7.1-SNAPSHOT-jar-with-dependencies.jar', './cloned_repos/gwt', 'false', '0', 'false', './saved_metrics_data/']' returned non-zero exit status 1."
+    },
+    {
+        "repo_url": "./cloned_repos/robovm",
+        "reason": "Command '['java', '-Xmx2g', '-jar', 'ck-0.7.1-SNAPSHOT-jar-with-dependencies.jar', './cloned_repos/robovm', 'false', '0', 'false', './saved_metrics_data/']' returned non-zero exit status 1."
+    }
+]
